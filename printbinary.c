@@ -34,3 +34,4 @@ int binary(unsigned int n, int *ptr)
 	_putchar(c);
 	return (*ptr);
 }
+/* Nyamso & PhilipKorans */
