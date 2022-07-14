@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * printhexa - handle x for hexadecimal numbers
+ * printhexa - haandle x for hexadecimal numbers
  * @list: a va_list macro
  * Return: number of byted printed
  */

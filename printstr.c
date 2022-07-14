@@ -1,7 +1,7 @@
 #include "main.h"
 #include <stdlib.h>
 /**
-* printstr - prints a string
+* printtstr - prints a string
 * @list: a va_list macro
 * Return: number of bytes printed. 0 otherwise
 */

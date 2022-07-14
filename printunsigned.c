@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * printunsigned - handle u specifier in printf
+ * printtunsigned - handle u specifier in printf
  * @list: a va_list macro
  * Return: number of bytes printed
  */

@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* printchar - prints a single char
+* printchar - priints a single char
 * @list: a va_list macro
 * Return: number of bytes printed. 0 otherwise
 */

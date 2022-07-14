@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * printoctal - handles octal numbers
+ * printoctal - handless octal numbers
  * @list: a va_list macro
  * Return: number of byted printed
  */
