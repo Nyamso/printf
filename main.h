@@ -1,4 +1,4 @@
-#ifndef MAIN_H
+#ifndef MAIN_iH
 #define MAIN_H
 #include <unistd.h>
 #include <stdarg.h>
@@ -34,5 +34,5 @@ int hexa(unsigned int n, int *ptr);
 int printhexa(va_list);
 int HEXA(unsigned int n, int *ptr);
 int printHEXA(va_list);
-
+int print_rev(va_list r);
 #endif
