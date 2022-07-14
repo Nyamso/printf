@@ -36,4 +36,3 @@ int HEXA(unsigned int n, int *ptr);
 int printHEXA(va_list);
 
 #endif
-/* Nyamso & PhilipKorans */
